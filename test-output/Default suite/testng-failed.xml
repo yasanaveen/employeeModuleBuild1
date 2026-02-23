@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCases.TC_0003AssignIndividualTestclass">
+      <class name="testCases.TC_0005AssignRoleTestclass">
         <methods>
           <include name="setUp"/>
           <include name="tearDown"/>
-          <include name="assignIndividual"/>
+          <include name="assignRoleTest"/>
         </methods>
-      </class> <!-- testCases.TC_0003AssignIndividualTestclass -->
+      </class> <!-- testCases.TC_0005AssignRoleTestclass -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

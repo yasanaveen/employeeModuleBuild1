@@ -1,0 +1,17 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd">
+<suite name="employeeManagement">
+	<test name="Employee Management Test">
+		<classes>
+			<class name="testCases.TC_0001LoginPageTestclass" />
+			<class name="testCases.TC_0002EmployeeManagementCard" />
+			<!--<class name="testCases.TC_0003AssignIndividualTestclass" />
+			<class name="testCases.TC_0004UnmapTestclass" />
+			<class name="testCases.TC_0005AssignRoleTestclass" />
+			<class name="testCases.TC_0006UnAssignRoleTestClass" />-->
+		</classes>
+
+	</test>
+
+
+</suite>
