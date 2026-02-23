@@ -2,34 +2,34 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-02-23T10:04:15 IST" name="employeeManagement" finished-at="2026-02-23T10:04:26 IST" duration-ms="11113">
+  <suite started-at="2026-02-23T10:23:39 IST" name="employeeManagement" finished-at="2026-02-23T10:23:50 IST" duration-ms="10890">
     <groups>
     </groups>
-    <test started-at="2026-02-23T10:04:15 IST" name="Employee Management Test" finished-at="2026-02-23T10:04:26 IST" duration-ms="11113">
+    <test started-at="2026-02-23T10:23:39 IST" name="Employee Management Test" finished-at="2026-02-23T10:23:50 IST" duration-ms="10890">
       <class name="testCases.TC_0001LoginPageTestclass">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC_0001LoginPageTestclass@74e52ef6]" started-at="2026-02-23T10:04:15 IST" name="setUp" finished-at="2026-02-23T10:04:18 IST" duration-ms="3240" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC_0001LoginPageTestclass@6ed3ccb2]" started-at="2026-02-23T10:23:39 IST" name="setUp" finished-at="2026-02-23T10:23:42 IST" duration-ms="2934" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="LoginPageTest()[pri:0, instance:testCases.TC_0001LoginPageTestclass@74e52ef6]" started-at="2026-02-23T10:04:18 IST" name="LoginPageTest" finished-at="2026-02-23T10:04:19 IST" duration-ms="564" status="PASS">
+        <test-method signature="LoginPageTest()[pri:0, instance:testCases.TC_0001LoginPageTestclass@6ed3ccb2]" started-at="2026-02-23T10:23:42 IST" name="LoginPageTest" finished-at="2026-02-23T10:23:43 IST" duration-ms="492" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginPageTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_0001LoginPageTestclass@74e52ef6]" started-at="2026-02-23T10:04:19 IST" name="tearDown" finished-at="2026-02-23T10:04:19 IST" duration-ms="4" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_0001LoginPageTestclass@6ed3ccb2]" started-at="2026-02-23T10:23:43 IST" name="tearDown" finished-at="2026-02-23T10:23:43 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_0001LoginPageTestclass -->
       <class name="testCases.TC_0002EmployeeManagementCard">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC_0002EmployeeManagementCard@198b6731]" started-at="2026-02-23T10:04:19 IST" name="setUp" finished-at="2026-02-23T10:04:21 IST" duration-ms="1955" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC_0002EmployeeManagementCard@7c6908d7]" started-at="2026-02-23T10:23:43 IST" name="setUp" finished-at="2026-02-23T10:23:45 IST" duration-ms="1791" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="EmployeeManagementCardTest()[pri:0, instance:testCases.TC_0002EmployeeManagementCard@198b6731]" started-at="2026-02-23T10:04:21 IST" name="EmployeeManagementCardTest" finished-at="2026-02-23T10:04:26 IST" duration-ms="5263" status="PASS">
+        <test-method signature="EmployeeManagementCardTest()[pri:0, instance:testCases.TC_0002EmployeeManagementCard@7c6908d7]" started-at="2026-02-23T10:23:45 IST" name="EmployeeManagementCardTest" finished-at="2026-02-23T10:23:50 IST" duration-ms="5249" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmployeeManagementCardTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_0002EmployeeManagementCard@198b6731]" started-at="2026-02-23T10:04:26 IST" name="tearDown" finished-at="2026-02-23T10:04:26 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_0002EmployeeManagementCard@7c6908d7]" started-at="2026-02-23T10:23:50 IST" name="tearDown" finished-at="2026-02-23T10:23:50 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

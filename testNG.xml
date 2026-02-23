@@ -1,6 +1,12 @@
 
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd">
 <suite name="employeeManagement">
+
+	<listeners>
+		<listener class-name="Utills.ExtentReportManager"/>
+	</listeners>
+
+
 	<test name="Employee Management Test">
 		<classes>
 			<class name="testCases.TC_0001LoginPageTestclass" />
